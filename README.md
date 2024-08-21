@@ -1,5 +1,4 @@
 # Byte API Source Code
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eea39209-293b-4843-bea8-d4515fd7b0d6"/>
 </p>
