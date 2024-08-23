@@ -5,9 +5,6 @@
 
 **Byte API** is a Roblox exploiting API designed by **Wyatt** to handle script executions for Roblox exploiting clients. With this API, GUI developers don't have to worry about designing their own injector and script execution for their executor GUI.
 
-### Official Byte API Discord
-[Join here](https://discord.gg/4n6w6PnJNS)
-
 > **DISCLAIMER:**  
 > I'm not affiliated with Byte API developers or Wyatt.  
 > This is to be used as a reference to design your own exploit API and to educate yourself on game hacking.
