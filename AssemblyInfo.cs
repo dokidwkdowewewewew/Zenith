@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyCompany("ByteAPI")]
+[assembly: AssemblyCompany("ZenithAPI")]
 [assembly: AssemblyConfiguration("Debug")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 [assembly: AssemblyInformationalVersion("1.0.0")]
-[assembly: AssemblyProduct("ByteAPI")]
-[assembly: AssemblyTitle("ByteAPI")]
+[assembly: AssemblyProduct("ZenitAPI")]
+[assembly: AssemblyTitle("ZenithAPI")]
 [assembly: AssemblyVersion("1.0.0.0")]
